@@ -1,0 +1,53 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "Mark",
+      "email": "mark@microsoft.com",
+      "phone": "5641238971",
+      "skills": [
+        {
+          "SkillName": "C#",
+          "ExperienceinYears": 1,
+          "Proficiency": "beginner"
+        },
+        {
+          "SkillName": "Java",
+          "ExperienceinYears": 2,
+          "Proficiency": "intermediate"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "fullName": "John",
+      "email": "john@microsoft.com",
+      "phone": "55555",
+      "skills": [
+        {
+          "SkillName": "C#",
+          "ExperienceinYears": "5",
+          "Proficiency": "intermediate"
+        },
+        {
+          "SkillName": "Java",
+          "ExperienceinYears": "8",
+          "Proficiency": "advanced"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "fullName": "Amey ",
+      "email": "Amey@microsoft.com",
+      "phone": "9898989",
+      "skills": [
+        {
+          "SkillName": "C#",
+          "ExperienceinYears": "8",
+          "Proficiency": "advanced"
+        }
+      ]
+    }
+  ]
+}

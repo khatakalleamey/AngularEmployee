@@ -1,0 +1,34 @@
+.card {
+    margin-top: 10px;
+}
+
+.form-inline {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+}
+
+.radio-inline {
+    margin-left: 10px;
+}
+
+button {
+    margin-right: 10px;
+}
+
+.help-block {
+    color: red;
+}
+
+/* 
+input[id="SkillName"]{
+    margin-left: 15px;
+} */
+
+input[id="phone"] {
+    margin-bottom: 30px;
+}
+
+input[value="phone"] {
+    margin-bottom: -50px;
+}
